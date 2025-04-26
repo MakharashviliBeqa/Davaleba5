@@ -63,3 +63,10 @@ li,nav {
     text-align: center;
     margin-top: 1%;
 }
+
+.Section3-1, .Section3-2, .Section3-3, .Section3-4 {
+    display: block;
+    text-align: left;
+    margin: 20px auto;
+    max-width: 800px;
+}
