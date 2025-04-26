@@ -41,4 +41,25 @@ li,nav {
     display: flex;
     justify-content: center;
     gap: 25px;
+    margin-top: 3%;
+}
+
+.Section3-1 {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.Section3-2 {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.Section3-3 {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.Section3-4 {
+    text-align: center;
+    margin-top: 1%;
 }
