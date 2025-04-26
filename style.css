@@ -31,9 +31,14 @@ a{
 li,nav {
     display: inline-block;
     vertical-align: middle;
-
 }
 
 .container img{
         vertical-align: middle;
+}
+
+.Section2-Pictures{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
 }
